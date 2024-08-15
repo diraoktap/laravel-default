@@ -12,6 +12,7 @@
 </head>
 
 <body>
+    <x-navigations.navbar></x-navigations.navbar>
     {{ $slot }}
 </body>
 
